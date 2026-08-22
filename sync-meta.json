@@ -1,18 +1,18 @@
 {
-  "checkedAt": "2026-08-22T08:50:17.648165+00:00",
+  "checkedAt": "2026-08-22T10:42:48.875286+00:00",
   "via": "github-actions",
-  "runUrl": "https://github.com/murderszn/haze-values/actions/runs/32563316949",
+  "runUrl": "https://github.com/murderszn/haze-values/actions/runs/32568323194",
   "values": {
     "items": 146,
-    "updatedAt": "2026-08-22T08:50:17.648165+00:00",
+    "updatedAt": "2026-08-22T10:42:48.875286+00:00",
     "valueConflicts": 2
   },
   "content": {
     "entries": 323,
-    "lastChecked": "2026-08-22T08:50:31.990644+00:00"
+    "lastChecked": "2026-08-22T10:43:01.260404+00:00"
   },
   "trelloDetails": {
     "items": 130,
-    "checkedAt": "2026-08-22T08:50:33.961111+00:00"
+    "checkedAt": "2026-08-22T10:43:02.916751+00:00"
   }
 }
